@@ -7,4 +7,4 @@ GitHub:
 - pull request
 VS Code:
 - controle de versão
-1.fix: corrige erro de digitação
+erro proposital de digitação
